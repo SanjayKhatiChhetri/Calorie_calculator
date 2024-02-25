@@ -11,3 +11,10 @@
 > - DropDownList
 > - Hoisting state up
 > - Support portrait mode only
+
+### Overview of App !!What it looks like!!
+> [!CAUTION]
+> delete [App ScreenShot](./Calorie calculator.png) before you run the project locally.
+<picture>
+<img alt="Shows an app that illustrate the Calorie Consumption Calculator concept" src="https://github.com/SanjayKhatiChhetri/Calorie_calculator/blob/main/Calorie%20calculator.png">
+</picture>
